@@ -1,0 +1,14 @@
+.container {
+  display:flex;
+  justify-content: center;
+}
+
+.col-md-4 {
+  display:flex;
+  justify-content: flex-end;
+}
+
+.col-md-8 {
+  display:flex;
+  justify-content: flex-end;
+}
