@@ -1,14 +1,8 @@
 .container {
-  display:flex;
-  justify-content: center;
+  align-items: center;
 }
 
-.col-md-4 {
-  display:flex;
-  justify-content: flex-end;
-}
-
-.col-md-8 {
-  display:flex;
+header nav {
+  display: flex;
   justify-content: flex-end;
 }
