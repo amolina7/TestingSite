@@ -25,7 +25,7 @@ class App extends Component {
     return (
       <div>
         <title> Food Blog </title>
-        <h1> Food Bank </h1>
+        <h1> Welcome </h1>
         <NightMode />
       </div>
     );
